@@ -1,10 +1,10 @@
 import React      from "react";
 import ReactDOM   from "react-dom";
-import App        from "./components/App";
+import Layout        from "./components/Layout";
 
 console.log('hola mundo');
 
 ReactDOM.render(
-  <App/>,
+  <Layout />,
   document.getElementById('app')
 );
