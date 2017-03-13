@@ -1,8 +1,6 @@
 import React      from "react";
 import ReactDOM   from "react-dom";
-import Layout        from "./components/Layout";
-
-console.log('hola mundo');
+import Layout     from "./components/Layout";
 
 ReactDOM.render(
   <Layout />,
